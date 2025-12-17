@@ -2,7 +2,7 @@
 
 Игра рассчитана на 2 игроков за одним компьютером по очереди
 
-Можно поиграть онлайн - https://anzhelika24.itch.io/pvpclicker
+Можно поиграть онлайн - https://anzhelika24.itch.io/pvpclicker (с впн)
 
 ## Версия Unity
 
